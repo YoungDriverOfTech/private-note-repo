@@ -55,9 +55,3 @@
   				├─springcloud
   		├─Spring家族
 ```
-
-# 联系
-
-- 邮箱：tsuiraku@126.com
-- 网站：https://tsuiraku.com
-
